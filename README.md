@@ -1,5 +1,7 @@
 # BYOP-24BAI10387
 Java Vityarthi Project
+Name - Ayush Choudhary
+Registration Number - 24BAI10387
 
 # Personal Task Manager
 
